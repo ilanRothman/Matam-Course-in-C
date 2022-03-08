@@ -1,0 +1,4 @@
+ToolSet: 3.1.7 (local)@c:\cygwin64
+Options: 
+
+Options:-DCMAKE_MAKE_PROGRAM=/cygdrive/c/Users/iroth/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.46/bin/ninja/cygwin/ninja.exe
